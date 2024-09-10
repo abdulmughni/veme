@@ -1,6 +1,9 @@
 .navbar.navbar-dark .navbar-toggler {
     background: #388f3c;
 }
+.navbar.navbar-dark .navbar-toggler .navbar-toggler-icon {
+    font-size: 14px;
+}
 .h-search-bar {
     position: relative;
     margin: 2px 0 0;
